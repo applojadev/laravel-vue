@@ -1,5 +1,35 @@
 
+Instalação laravel / Bootstrap / Vue / Vue Router / Pinia / Vuetify / Animation / MDI
 
+composer create-project laravel/laravel example-app
+
+composer require laravel/ui
+
+php artisan ui bootstrap --auth or  (php artisan ui:auth)
+
+------------------------------------------------------------------------
+
+npm install vue@next vue-loader@next
+
+npm i @vitejs/plugin-vue
+
+npm install vuetify
+
+npm install vite-plugin-vuetify
+
+npm install vue-router
+
+npm install pinia
+
+npm install animate.css
+
+npm install lodash
+
+npm install @mdi/font
+
+
+
+//old install
 
 npm install vuex@next --save
 
